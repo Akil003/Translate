@@ -7,5 +7,13 @@ To install:
 2. Download the following dependencies:
   * PyQT5
   * speech_recognition
-  * google
+  * googletrans
+  * pyttsx3
+  * gtts
+  * playsound
+  * cv2
+  * pytesseract
+  * numpy
+  * textract
+  * docx
   
